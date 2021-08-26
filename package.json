@@ -15,20 +15,21 @@
     "pg": "^8.7.1",
     "pg-connection-string": "^2.5.0",
     "sqlite3": "5.0.0",
-    "strapi": "3.6.6",
-    "strapi-admin": "3.6.6",
-    "strapi-connector-bookshelf": "3.6.6",
-    "strapi-plugin-content-manager": "3.6.6",
-    "strapi-plugin-content-type-builder": "3.6.6",
-    "strapi-plugin-documentation": "3.6.6",
-    "strapi-plugin-email": "3.6.6",
-    "strapi-plugin-i18n": "3.6.6",
-    "strapi-plugin-upload": "3.6.6",
-    "strapi-plugin-users-permissions": "3.6.6",
+    "strapi": "3.6.8",
+    "strapi-admin": "3.6.8",
+    "strapi-connector-bookshelf": "3.6.8",
+    "strapi-plugin-content-manager": "3.6.8",
+    "strapi-plugin-content-type-builder": "3.6.8",
+    "strapi-plugin-documentation": "3.6.8",
+    "strapi-plugin-email": "3.6.8",
+    "strapi-plugin-i18n": "3.6.8",
+    "strapi-plugin-upload": "3.6.8",
+    "strapi-plugin-users-permissions": "3.6.8",
+    "strapi-provider-email-sendgrid": "^3.6.8",
     "strapi-utils": "3.6.6"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Guimarães Mahota"
   },
   "strapi": {
     "uuid": "f9a4cd30-a0ce-43d8-a78b-1764f875206e"
