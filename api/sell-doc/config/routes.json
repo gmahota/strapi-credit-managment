@@ -1,0 +1,52 @@
+{
+  "routes": [
+    {
+      "method": "GET",
+      "path": "/sell-docs",
+      "handler": "sell-doc.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/sell-docs/count",
+      "handler": "sell-doc.count",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/sell-docs/:id",
+      "handler": "sell-doc.findOne",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "POST",
+      "path": "/sell-docs",
+      "handler": "sell-doc.create",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/sell-docs/:id",
+      "handler": "sell-doc.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/sell-docs/:id",
+      "handler": "sell-doc.delete",
+      "config": {
+        "policies": []
+      }
+    }
+  ]
+}

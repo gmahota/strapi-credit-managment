@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "pendents",
+  "info": {
+    "name": "Pendent",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Type_Doc": {
+      "type": "string"
+    },
+    "date_doc": {
+      "type": "date"
+    },
+    "date_venc": {
+      "type": "date"
+    }
+  }
+}

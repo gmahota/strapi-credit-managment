@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "sell_docs",
+  "info": {
+    "name": "Sell_Doc"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Num_doc": {
+      "type": "uid"
+    },
+    "Date_Doc": {
+      "type": "date"
+    },
+    "Mutuario": {
+      "type": "string"
+    },
+    "vat_Mutuario": {
+      "type": "biginteger"
+    }
+  }
+}

@@ -1,8 +1,8 @@
 {
   "kind": "collectionType",
-  "collectionName": "candidates",
+  "collectionName": "customers",
   "info": {
-    "name": "Candidates",
+    "name": "Customers",
     "description": ""
   },
   "options": {
