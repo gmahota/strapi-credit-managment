@@ -525,7 +525,7 @@
           "code": {
             "type": "string"
           },
-          "name": {
+          "description": {
             "type": "string"
           },
           "price": {
@@ -542,7 +542,7 @@
           "code": {
             "type": "string"
           },
-          "name": {
+          "description": {
             "type": "string"
           },
           "price": {
