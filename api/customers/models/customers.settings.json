@@ -1,9 +1,8 @@
 {
   "kind": "collectionType",
-  "collectionName": "candidates",
+  "collectionName": "customers",
   "info": {
-    "name": "Candidates",
-    "description": ""
+    "name": "Customers"
   },
   "options": {
     "increments": true,
@@ -45,7 +44,7 @@
     "gender": {
       "type": "string"
     },
-    "debtCapacity": {
+    "debitCapacity": {
       "type": "decimal"
     }
   }
